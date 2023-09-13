@@ -17,7 +17,7 @@ VSCode連携：https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/wsl-vscod
 ## Docker
 Docker Engineインストール：https://docs.docker.com/engine/install/ubuntu/  
 Docker Comporseインストール：https://docs.docker.com/compose/install/linux/  
-Docker Hub(official image)：https://hub.docker.com/search?image_filter=official&q=  
+Docker Hub（official image）：https://hub.docker.com/search?image_filter=official&q=  
 
 
 # 開発
