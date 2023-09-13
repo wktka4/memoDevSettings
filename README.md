@@ -1,2 +1,5 @@
-# memoDevSettings
-メモ_開発環境の設定
+# 概要
+自身の開発環境を構築する際のメモ
+* WSL2
+* Docker
+* VSCode
