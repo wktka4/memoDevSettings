@@ -15,7 +15,8 @@ VSCode連携：https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/wsl-vscod
 ## VSCode
 
 ## Docker
-WSL2上のUbuntuにインストール：https://docs.docker.com/engine/install/ubuntu/
+Docker Engineインストール：https://docs.docker.com/engine/install/ubuntu/  
+Docker Comporseインストール：https://docs.docker.com/compose/install/linux/  
 
 # 開発
 
