@@ -9,7 +9,9 @@
 # インストール
 ## WSL2
 WSL2：https://learn.microsoft.com/ja-jp/windows/wsl/install
+
 インストール後の設定：https://learn.microsoft.com/ja-jp/windows/wsl/setup/environment
+
 VSCodeで作業できるようにする設定：https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/wsl-vscode
 
 ## VSCode
