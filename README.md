@@ -6,7 +6,6 @@
 * Docker
 * VSCode
 
-# セットアップ
 ## WSL2
 WSL2：https://learn.microsoft.com/ja-jp/windows/wsl/install  
 Ubuntuのセットアップ：https://learn.microsoft.com/ja-jp/windows/wsl/setup/environment  
@@ -20,7 +19,6 @@ Docker Comporseインストール：https://docs.docker.com/compose/install/linu
 Docker Hub（official image）：https://hub.docker.com/search?image_filter=official&q=  
 
 
-# 公式ドキュメント
 ## Spring Framework
 docs：https://spring.pleiades.io/  
 
